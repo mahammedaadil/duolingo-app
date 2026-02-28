@@ -13,7 +13,9 @@
     "db:push": "npx drizzle-kit push",
     "db:prod": "tsx ./scripts/prod.ts",
     "db:seed": "tsx db/seed.ts",
-    "db:seedfr": "tsx db/seed-french.ts"
+    "db:seedfr": "tsx db/seed-french.ts",
+    "db:seedit": "tsx db/seed-italy.ts"
+
   },
   "author": {
     "name": "Mahammedaadil Patel",
